@@ -12,6 +12,7 @@
 ```
 hashmap_poster/
 ├── data/ # 输入测试数据集（支持 txt、json 格式）
+├── assets/ # 存放实验海报、素材图片
 ├── src/
 │ ├── hash_table.py # 哈希表核心实现：插入、查询、扩容、删除
 │ ├── two_sum.py # TwoSum 暴力算法 & 哈希优化算法
